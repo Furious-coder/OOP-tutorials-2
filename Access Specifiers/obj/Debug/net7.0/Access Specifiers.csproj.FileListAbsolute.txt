@@ -1,0 +1,15 @@
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\bin\Debug\net7.0\Access Specifiers.exe
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\bin\Debug\net7.0\Access Specifiers.deps.json
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\bin\Debug\net7.0\Access Specifiers.runtimeconfig.json
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\bin\Debug\net7.0\Access Specifiers.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\bin\Debug\net7.0\Access Specifiers.pdb
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.csproj.AssemblyReference.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.AssemblyInfoInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.AssemblyInfo.cs
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\refint\Access Specifiers.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.pdb
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\Access Specifiers.genruntimeconfig.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifiers\obj\Debug\net7.0\ref\Access Specifiers.dll

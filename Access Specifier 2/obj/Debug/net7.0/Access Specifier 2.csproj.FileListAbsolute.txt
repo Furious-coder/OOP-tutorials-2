@@ -1,0 +1,5 @@
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifier 2\obj\Debug\net7.0\Access Specifier 2.csproj.AssemblyReference.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifier 2\obj\Debug\net7.0\Access Specifier 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifier 2\obj\Debug\net7.0\Access Specifier 2.AssemblyInfoInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifier 2\obj\Debug\net7.0\Access Specifier 2.AssemblyInfo.cs
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Access Specifier 2\obj\Debug\net7.0\Access Specifier 2.csproj.CoreCompileInputs.cache
