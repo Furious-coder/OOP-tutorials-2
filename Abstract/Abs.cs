@@ -65,10 +65,12 @@ namespace Abstract
             Abs c = new Circle(12);
             Circle ci = new Circle(14);
             ci.example();
-           
-           Console.WriteLine( r.Area());
-           Console.WriteLine( s.Area());
-           Console.WriteLine( c.Area());
+
+
+
+            Console.WriteLine(r.Area());
+            Console.WriteLine(s.Area());
+            Console.WriteLine(c.Area());
         }
     }
 }

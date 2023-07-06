@@ -1,0 +1,15 @@
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\bin\Debug\net7.0\Delegate.exe
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\bin\Debug\net7.0\Delegate.deps.json
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.pdb
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Delegate\obj\Debug\net7.0\ref\Delegate.dll

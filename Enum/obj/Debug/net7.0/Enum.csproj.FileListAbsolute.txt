@@ -1,0 +1,15 @@
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\bin\Debug\net7.0\Enum.exe
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\bin\Debug\net7.0\Enum.deps.json
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\bin\Debug\net7.0\Enum.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\bin\Debug\net7.0\Enum.pdb
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\refint\Enum.dll
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.pdb
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+C:\Users\rosha\Desktop\C#.NET Tutorial Videos\Enum\obj\Debug\net7.0\ref\Enum.dll
