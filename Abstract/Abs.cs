@@ -50,6 +50,10 @@ namespace Abstract
         {
             return PI*radius*radius;
         }
+        public void example()
+        {
+            System.Console.WriteLine("Example");
+        }
     }
 
     public class Action
@@ -59,6 +63,9 @@ namespace Abstract
             Abs r = new Rectangle(5, 7);
             Abs s = new Square(6);
             Abs c = new Circle(12);
+            Circle ci = new Circle(14);
+            ci.example();
+           
            Console.WriteLine( r.Area());
            Console.WriteLine( s.Area());
            Console.WriteLine( c.Area());
