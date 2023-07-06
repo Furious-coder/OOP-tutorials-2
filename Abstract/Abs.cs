@@ -60,7 +60,7 @@ namespace Abstract
     {
         public static void Main(string[] args)
         {
-            Abs r = new Rectangle(5, 7);
+            Abs r = new Rectangle(5, 7);   //question: why is it better to use Abs r = new Rectangle(5, 7); than Rectangle r = new Rectangle(5,7);
             Abs s = new Square(6);
             Abs c = new Circle(12);
             Circle ci = new Circle(14);
